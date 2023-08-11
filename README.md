@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SONIL SRIVASTAVA(@Sonil8299)
 - 👀 I’m interested in ...constantly learning new things
-- 🌱 I’m currently learning ...MERN STACK
+- 🌱 I’m currently learning ...DATA ANALYSIS
 - 📫 You can connect me via LINKDIN ...  linkedin.com/in/sonil-srivastava-878198212
 [![@sonil8299's Holopin board](https://holopin.me/sonil8299)](https://holopin.io/@sonil8299)
 
